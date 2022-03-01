@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🛢  Firebase | PostgreSQL | SQL Server | MongoDB
 - ☁️ AWS | Digital Ocean
 
-[![KeflemTrindade GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/KeflemTrindade/github-readme-stats)
+[![KeflemTrindade GitHub stats](https://github-readme-stats.vercel.app/api?username=KeflemTrindade)](https://github.com/KeflemTrindade/github-readme-stats)
