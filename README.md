@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ☁️ AWS | Digital Ocean
 
 
-[![KeflemTrindade GitHub stats](https://github-readme-stats.vercel.app/api?username=KeflemTrindade)](https://github.com/KeflemTrindade/github-readme-stats)
+![KeflemTrindade GitHub stats](https://github-readme-stats.vercel.app/api?username=KeflemTrindade&show_icons=true&theme=radical)
