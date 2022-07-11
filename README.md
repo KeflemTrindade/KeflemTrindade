@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 - 💻 Node.JS | Java
 - ⚡ React | React Native | HTML | CSS | SASS | JavaScript | TypeScript | Kotlin | Swift
 - 🛢  Firebase | PostgreSQL | SQL Server
-
-[KeflemTrindade GitHub stats](https://github-readme-stats.vercel.app/api?username=KeflemTrindade&show_icons=true&theme=radical) 
