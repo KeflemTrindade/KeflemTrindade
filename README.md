@@ -9,10 +9,10 @@ Here are some ideas to get you started:
 - 🔭 Currently working as Mobile Techs
 - 🌱 I’m currently learning Software Architecture, Software Engineering and Mobile Development 
 - 📫 How to reach me: keflemtn@gmail.com
-- 💼 Front-end enginner
+- 💼 Software enginner
 
  Dev Stacks
  
-- 💻 Node.JS | Java
+- 💻 Node.JS | NestJs | Java
 - ⚡ React | React Native | HTML | CSS | SASS | JavaScript | TypeScript | Kotlin | Swift
 - 🛢  Firebase | PostgreSQL | SQL Server
