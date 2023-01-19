@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Currently working as Mobile Techs
+- 🔭 Currently working as Mobile and back and Techs
 - 🌱 I’m currently learning Software Architecture, Software Engineering and Mobile Development 
 - 📫 How to reach me: keflemtn@gmail.com
 - 💼 Software enginner
