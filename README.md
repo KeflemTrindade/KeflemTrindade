@@ -6,13 +6,13 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Currently working as Mobile and back and Techs
-- 🌱 I’m currently learning Software Architecture, Software Engineering and Mobile Development 
-- 📫 How to reach me: keflemtn@gmail.com
-- 💼 Software enginner
+- 🔭 Currently working as Mobile and Backand Techs;
+- 🌱 I’m currently learning NestJs and BackEnd;
+- 📫 How to reach me: keflemtn@gmail.com;
+- 💼 Software Developer;
 
  Dev Stacks
  
-- 💻 Node.JS | NestJs | Java
+- 💻 Node.JS | NestJs
 - ⚡ React | React Native | HTML | CSS | SASS | JavaScript | TypeScript | Kotlin | Swift
-- 🛢  Firebase | PostgreSQL | SQL Server
+- 🛢  Firebase | PostgreSQL | SQL Server | MySql
