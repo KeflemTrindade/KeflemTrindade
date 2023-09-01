@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-''
+
 - 🔭 Currently working as React Native and Mobile techs;
 - 🌱 I’m currently learning NestJs and BackEnd;
 - 📫 How to reach me: [keflemtn@gmail.com;](https://www.linkedin.com/in/keflem-trindade-905938164/)
