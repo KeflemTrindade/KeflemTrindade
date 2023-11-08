@@ -14,7 +14,7 @@ Here are some ideas to get you started:
  Dev Stacks
  
 - 💻 Node.JS | Go
-- ⚡ React Native | JavaScript | TypeScript | Swift
+- ⚡ React Native | ReactJs | NextJS | JavaScript | TypeScript
 - 🛢 Firebase | MySql | RealmDB | MongoDB | Redis
 - 🔧 VSCode | Insomnia | Postman | Git
 - ☁️  AWS
