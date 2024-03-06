@@ -6,15 +6,15 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Currently working as React Native and Mobile techs;
+- 🔭 Currently working as React Native/ReactJs;
 - 🌱 I’m currently learning NestJs and BackEnd;
 - 📫 How to reach me: [keflemtn@gmail.com;](https://www.linkedin.com/in/keflem-trindade-905938164/)
-- 💼 Software Enginner;
+- 💼 Software Enginner at @gympass;
 
  Dev Stacks
  
-- 💻 Node.JS
-- ⚡ React Native | ReactJs | JavaScript | TypeScript | Swift
+- 💻 Node.JS | NestJs
+- ⚡ React Native | ReactJs | NextJs | JavaScript | TypeScript | Kotlin
 - 🛢 Firebase | MySql | RealmDB | MongoDB | Redis
 - 🔧 VSCode | Insomnia | Postman | Git
 - ☁️  AWS
