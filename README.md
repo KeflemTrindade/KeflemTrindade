@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Currently working as React Native/ReactJs;
-- 🌱 I’m currently learning NestJs and BackEnd;
+- 🌱 I’m currently learning Go and BackEnd;
 - 📫 How to reach me: [keflemtn@gmail.com;](https://www.linkedin.com/in/keflem-trindade-905938164/)
 - 💼 Software Enginner at @gympass;
 
