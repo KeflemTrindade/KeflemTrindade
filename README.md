@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
  Dev Stacks
  
-- 💻 Node.JS | NestJs
+- 💻 Node.JS | NestJs | Go
 - ⚡ React Native | ReactJs | NextJs | JavaScript | TypeScript | Kotlin
 - 🛢 Firebase | MySql | RealmDB | MongoDB | Redis
 - 🔧 VSCode | Insomnia | Postman | Git
